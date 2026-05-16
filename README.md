@@ -1,0 +1,2 @@
+# 02_PLANEACION_3TERCERO_13_Introducci-n_algoritmia
+Guía de refuerzo 13
